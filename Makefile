@@ -7,3 +7,5 @@ lint:
 	pylint --disable=R,C,E1120 hello.py
 test:
 	python -m pytest -vv test_hello.py
+format:
+	echo "this is a placeholder for format as the course file doens't have it"
